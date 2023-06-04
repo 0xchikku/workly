@@ -1,0 +1,1329 @@
+{
+  "jobs_results": [
+    {
+      "title": "C Developer",
+      "company_name": "Insight Global",
+      "location": " Anywhere ",
+      "via": "via LinkedIn",
+      "description": "Insight Global is looking for an Embedded C Engineer to join the Vehicle Controls group of one of their largest clients in the Automotive industry. This candidate will be working alongside the control’s tools specialist to design, develop, code, and test planned changes to different software tools. This person must have a technical expertise within Embedded C development, must have a strong Unix... background, and must be a team player & have well rounded soft skills.\n\nQualifications:\n• Experience with C development for software tools\n• Strong background with C language data structures, pointers, bit manipulation techniques, file read/write, hash tables, & recursion\n• Strong background developing applications in a Unix or Linux environment\n• With make-files, GDB, bash, editing, setuid, & process fork\n• Experience developing Graphical User Interfaces in a Unix environment\n• Preferably with X-Windows\n• Experience with Code Configuration Management, Jira, & Microsoft Office(Excel & Word)\n• Excellent oral & communication skills\n• Able to be a great team player\n• Consulting with end users\n\nPreferred:\n• Experience with file formats such as: ASAM e.V A2L, Intel H32, Motorola S-records\n• Experience with TCP/IP Sockets\n• Experience with control system software & calibration development\n• ATI/Vision, ETAS/Inca",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This person must have a technical expertise within Embedded C development, must have a strong Unix background, and must be a team player & have well rounded soft skills",
+            "Experience with C development for software tools",
+            "Strong background with C language data structures, pointers, bit manipulation techniques, file read/write, hash tables, & recursion",
+            "Strong background developing applications in a Unix or Linux environment",
+            "With make-files, GDB, bash, editing, setuid, & process fork",
+            "Experience developing Graphical User Interfaces in a Unix environment",
+            "Preferably with X-Windows",
+            "Experience with Code Configuration Management, Jira, & Microsoft Office(Excel & Word)",
+            "Excellent oral & communication skills",
+            "Able to be a great team player",
+            "Consulting with end users"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This candidate will be working alongside the control’s tools specialist to design, develop, code, and test planned changes to different software tools"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.insightglobal.com/",
+          "text": "insightglobal.com"
+        },
+        {
+          "link": "https://www.google.com/search?q=Insight+Global&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCM0J",
+          "text": "See web results for Insight Global"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3NPZVfMWlf1Xobrp_Lh-K5I_QQ6QYxbe8RTgfrJ8&s",
+      "extensions": [
+        "21 hours ago",
+        "55–60 an hour",
+        "Work from home",
+        "Contractor",
+        "No degree mentioned"
+      ],
+      "detected_extensions": {
+        "posted_at": "21 hours ago",
+        "schedule_type": "Contractor",
+        "salary": "55–60 an hour",
+        "work_from_home": true
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJDIERldmVsb3BlciIsImh0aWRvY2lkIjoiRmNmemYxU0s0YUlBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1VVd3dXR1J3VlhvMlVVazNObVJVWTNkd1MxSjRTbDluY1RSQ1NrVjNiMnBrV1dKVlltMXZTRFJFV0U5eVdUaGxPSFZNYUhsZmRFc3RjV3d0VlZGSU5rcG9WMll4VWxoMGQzZG5jWHBrUlhsbVYwaFZlR05KZGpablRGa3dOSEpzTVY5V1pqVjRkMjkwVWxCNlV6aDJNakU0YUZGaWJVVjRha3d0TFdaVlkzWk9WbUpPTTJGa2FtNUlUbWhHWm5ObWFWa3RkRXRJWlZwMUxWWlpSbU15YzBoSVoxTmFla3AwTnpSb0xXaDFhWEJORWhkUVFrbzNXa2t5VGtoTVUyazFUbTlRWnpSUE9HbEJieG9pUVU4dE1ISnNObk5EYnkxR05FRkxTR1oxT1ZsRlVYZDRNWFk0WDBsTmFVZzRRUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzEiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiLm5GZzJlYntmb250LXdlaWdodDo1MDB9LkJpNkRkY3tmb250LXdlaWdodDo1MDB9QXBwbHkgb24gTGlua2VkSW4iLCJsaW5rIjoiaHR0cHM6Ly93d3cubGlua2VkaW4uY29tL2pvYnMvdmlldy9jLWRldmVsb3Blci1hdC1pbnNpZ2h0LWdsb2JhbC0zNjIwMjYzMzM3P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Full Stack Software Developer",
+      "company_name": "Oak Ridge National Laboratory",
+      "location": "  Oak Ridge, TN   ",
+      "via": "via ORNL Jobs - Oak Ridge National Laboratory",
+      "description": "Requisition Id 9795\n\nOverview...\n\nThe Data Lifecycle and Scalable Workflows Group at Oak Ridge National Laboratory (ORNL) is seeking a Full Stack Software Developer to add to our team. In this position, you will provide products and services for scientific data management at leadership-class scale. The ideal candidate is a creative developer with a growth mindset. Prior experience with C/C++/Python, data applications, distributed systems, and microservices is preferred but not required. To be successful in this role, you must be team-oriented, understand computer science fundamentals, and demonstrate a drive for self-learning. Our team has a diverse skill set and are natural problem solvers who share a passion about supporting scientists and enabling new discoveries for humanity, while working on some of the most challenging problems with cutting-edge technologies.\n\nThis position is part of the Advanced Technologies Section within the National Center for Computational Sciences (NCCS) Division at ORNL. NCCS has a deep legacy in High Performance Computing (HPC) operating leadership-class systems, deploying the world’s first exascale system (Frontier) and largest parallel file system. Data is at the heart of science and workflows reduce a scientist’s cognitive overhead and increase science reproducibility - the Data Lifecycle and Scalable Workflows Group tackles these challenges for supercomputing facilities.\n\nMajor Duties and Responsibilities:\n• Assist in development of software applications and science-based systems to manage big data\n• Collaborate with other research and technical professionals to develop new capabilities that execute on ORNL’s leading data and compute infrastructures\n• Support multiple technology projects at the same time\n• Develop, test, and deploy services.\n• Evaluate and test third-party software\n\nBasic Qualifications:\n• Bachelor’s degree in computer science or software engineering, with a minimum of 2 years work experience OR Master’s degree in computer science or software engineering, with a minimum of 1 year work experience.\n\nDesired Qualifications:\n• Proficiency with one or more of the following languages: C/C++, Go, or Python.\n• Proficiency with any front-end languages (e.g., Javascript, AngularJS, React).\n• Experience with containers (e.g., Docker) and container orchestration (e.g., Kubernetes).\n• Experience with version control systems (e.g., Git).\n• Experience with CI/CD practices, test methodologies\n• Willingness to learn new programming languages and technologies\n• Motivated self-starter with the ability to work independently and to participate creatively in a collaborative setting\n• Strong problem-solving skills\n• Ability to think critically\n• Excellent written and oral communication skills\n\n#LI-DC1\n\nThis position will remain open for a minimum of 5 days after which it will close when a qualified candidate is identified and/or hired.\n\nWe accept Word (.doc, .docx), Adobe (unsecured .pdf), Rich Text Format (.rtf), and HTML (.htm, .html) up to 5MB in size. Resumes from third party vendors will not be accepted; these resumes will be deleted and the candidates submitted will not be considered for employment.\n\nIf you have trouble applying for a position, please email ORNLRecruiting@ornl.gov.\n\nORNL is an equal opportunity employer. All qualified applicants, including individuals with disabilities and protected veterans, are encouraged to apply. UT-Battelle is an E-Verify employer",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "To be successful in this role, you must be team-oriented, understand computer science fundamentals, and demonstrate a drive for self-learning",
+            "Bachelor’s degree in computer science or software engineering, with a minimum of 2 years work experience OR Master’s degree in computer science or software engineering, with a minimum of 1 year work experience"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this position, you will provide products and services for scientific data management at leadership-class scale",
+            "Data is at the heart of science and workflows reduce a scientist’s cognitive overhead and increase science reproducibility - the Data Lifecycle and Scalable Workflows Group tackles these challenges for supercomputing facilities",
+            "Assist in development of software applications and science-based systems to manage big data",
+            "Collaborate with other research and technical professionals to develop new capabilities that execute on ORNL’s leading data and compute infrastructures",
+            "Support multiple technology projects at the same time",
+            "Develop, test, and deploy services",
+            "Evaluate and test third-party software"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?q=Oak+Ridge+National+Laboratory&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCI0K",
+          "text": "See web results for Oak Ridge National Laboratory"
+        }
+      ],
+      "extensions": ["3 days ago", "Full-time"],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJGdWxsIFN0YWNrIFNvZnR3YXJlIERldmVsb3BlciIsImh0aWRvY2lkIjoiNVBSZmhZTUFoLTRBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1VuaHpXSEZPWDAxMFdIQnZPVlIwYmpkMU5rOTROM1ZUUzAxR2RuTXhOV1ozZGtSRmFUaFNVV1k0YzNwZlJqUXpWa2h3WmxGbUxUaDVUREF0Y2xKVFFuRmpiQzAxWkd4dFZWTktkREIwVkhaQmRuUnVWamgwZDBocFgyTlRkbFI0Ykc1YVlUaEtkVTExVFhCb1EyVmhTa0ZVVjAxMFZqTnJTVXhGZFhGV01sOHhTMjVNYkU1WFExSTVOWEY0WVVKVU9FRkpOVm90WkVWdlptUlJNWFl4YlhsVmVreEhSRnB4TVdWMGJVSmhjMXBqT0ZKUWNraHpVV3R6ZFdaRmNpMW1ZV0U0WmpFekVoZFFRa28zV2treVRraE1VMmsxVG05UVp6UlBPR2xCYnhvaVFVOHRNSEpzTldkdWQxTjBTVWx6VWtGS1RWRjZZM2xNU0V0SFVVSlBaMGx4WnciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18zIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIE9STkwgSm9icyAtIE9hayBSaWRnZSBOYXRpb25hbCBMYWJvcmF0b3J5IiwibGluayI6Imh0dHBzOi8vam9icy5vcm5sLmdvdi9qb2IvT2FrLVJpZGdlLUZ1bGwtU3RhY2stU29mdHdhcmUtRGV2ZWxvcGVyLVROLTM3ODMwLzk3NzQwOTkwMC8/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Mobile developer",
+      "company_name": "Dice",
+      "location": "  New York, NY   ",
+      "via": "via LinkedIn",
+      "description": "Job Title: Mobile Developer (IOS/Android)\n\nLocation: New York City NY/ Plano TX...\n\nPosition Type: (FTC/FTE)\n\nSkills:\n\nMobile IOS OR Android skill set. Swift , SwiftUI, Kotlin, Java\n\nMobile Developer:\n• 5+ years of combined software/application development experience\n• Experience with all phases of the development life cycle\n• Familiarity with how to optimize code for phones, testing with phones, challenges with phones",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Mobile IOS OR Android skill set",
+            "Swift , SwiftUI, Kotlin, Java",
+            "5+ years of combined software/application development experience",
+            "Experience with all phases of the development life cycle",
+            "Familiarity with how to optimize code for phones, testing with phones, challenges with phones"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?q=Dice&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCMgK",
+          "text": "See web results for Dice"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTchgwk0qIvqPnMlAcqO5451PRYsMDccWFDcD5pGeE&s",
+      "extensions": ["1 day ago", "Full-time", "No degree mentioned"],
+      "detected_extensions": {
+        "posted_at": "1 day ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJNb2JpbGUgZGV2ZWxvcGVyIiwiaHRpZG9jaWQiOiItXzkzajY4NjJpRUFBQUFBQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVXpadmNVOVdZM1F6WTJseE5FVjRMWFZuTVVKUE5HbEthbHB4WkRKR1dWQk9OVEJRYW5jNWFteDVUM1Y0WDI5QlgxQXlUVE5WZWpaYVVXRkJXRk14ZVdReWJUVkpTbTlRTTI5UllYSjZjbFJLYUZObmFuVmFRa1kxUjB4c01rRlNSVTVTYWxoMVkwWmhNVU5LYkZkdlEwOTNSRzlRYW14ck0zRTFlVlZsU2tsSU9WbFBZMXBGV21sS1pFNXFWVTF1TWxaUU1sUmtabTVWVUU1QlZrTjJSRmN6YURCSk1sWkliM1ozV2psSGFFeFZFaGRRUWtvM1dra3lUa2hNVTJrMVRtOVFaelJQT0dsQmJ4b2lRVTh0TUhKc05FSjFRMlJNZEZjNGVUZHBYM1owVmxaMll6Vk9VRE5XYnpkUFVRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNCIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBMaW5rZWRJbiIsImxpbmsiOiJodHRwczovL3d3dy5saW5rZWRpbi5jb20vam9icy92aWV3L21vYmlsZS1kZXZlbG9wZXItYXQtZGljZS0zNjI2MDE4MjQ4P3V0bV9jYW1wYWlnbj1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9zb3VyY2U9Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fbWVkaXVtPW9yZ2FuaWMifX0="
+    },
+    {
+      "title": "Senior Fullstack Developer",
+      "company_name": "confidential",
+      "location": "  Cleveland, OH   ",
+      "via": "via Apex Systems",
+      "description": "Title: Senior Fullstack Developer\n\nLocation: Cleveland OH Hybrid onsite 3 days a week...\n\nLength: 6 month contract to hire\n\nApex Systems is supporting a fortune 200 company out of Cleveland Ohio on a Senior Java Developer role. The Senior Java Web Developer position is responsible for the development, integration, and implementation of application software supporting mission critical business applications within the IT merchandise accounting systems group. The position requires participation in the complete system development life cycle including post implementation support.\n\nFormal Education & Certification\n\n-Bachelor degree or foreign equivalent in a related field or equivalent experience.\n\nRequired Expedrience\n\n-5+ years of IT experience.\n\n-5+ years experience working on all phases of the Software Development Lifecycle.\n\n-3+ years working with customers to build and formulate business requirements.\n\n-5+ years of Web Application Development experience in Java/J2EE environment including JPA, MVC frameworks , CSS, JSON/XML Technologies, Spring, Hibernate and HTML.\n\n-5+ years experience in an Enterprise Database Management System, preferably Oracle.\n\n-2+ years experience with PL/SQL.\n\n-3+ years using Spring Boot and Spring Rest services.\n\n-3+ years of Angular/React JS experience.\n\n-Business Objects/ APEX reporting tool experience a plus.\n\n-Experience working in Message queues considered a plus.\n\n-Experience with Source Control environments such as SVN or GIT.\n\n-Experience configuring application servers such as JBoss and Tomcat.\n\n-Experience with Unix/Linux OS and shell scripting.\n\n-Experience using Docker/Kubernetes considered a plus.\n\n-Experience creating automated build scripts (Ant/Gradle).\n\n-Experience with JVM languages such as Groovy considered a plus",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Bachelor degree or foreign equivalent in a related field or equivalent experience",
+            "5+ years experience working on all phases of the Software Development Lifecycle",
+            "3+ years working with customers to build and formulate business requirements",
+            "5+ years of Web Application Development experience in Java/J2EE environment including JPA, MVC frameworks , CSS, JSON/XML Technologies, Spring, Hibernate and HTML",
+            "5+ years experience in an Enterprise Database Management System, preferably Oracle",
+            "2+ years experience with PL/SQL",
+            "3+ years using Spring Boot and Spring Rest services",
+            "3+ years of Angular/React JS experience",
+            "Experience with Source Control environments such as SVN or GIT",
+            "Experience configuring application servers such as JBoss and Tomcat",
+            "Experience with Unix/Linux OS and shell scripting",
+            "Experience creating automated build scripts (Ant/Gradle)"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The position requires participation in the complete system development life cycle including post implementation support"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?q=confidential&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCIUL",
+          "text": "See web results for confidential"
+        }
+      ],
+      "extensions": ["2 days ago", "Contractor"],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Contractor"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTZW5pb3IgRnVsbHN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiUEcxNUtUQ0drUllBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRXZjQkNyY0JRVVZ6TjJwT1ZERmlSR2s0Tkd0R1ZrVmZPVFZJWjJ4SWVUaERiR2RrZVdkYVFtaE9aSGw0ZUdSaWVVSnphMjlsZG10UU5rTnZRVkEyYkZwaE1rOWpkMnBHU0dWTlVHdDRhRVpIZFd0Mk5UZFdWRkV3VDFGalMwUnJUVTEyV1ZaUVN6VTRTMmxTZUVzMllqTmtlbXgxYW0xdVUzUXdkRTl5Y2poaU1VUnlPV1JFVEc1d1JuRXpkMDR6U2xoQlVGcENVbWd0ZFhoaGRHdzRVSEp5YmtZMU0yTldRMUJ6T1VwU2JUbDBZVGx3TjJOcFdGY3phMFpuRWhkUVFrbzNXa2t5VGtoTVUyazFUbTlRWnpSUE9HbEJieG9pUVU4dE1ISnNORVJTVFRaclJDMWpYMlZHV1dkRmFXbFVNV1Z0ZVUxV1JpMU1adyIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gQXBleCBTeXN0ZW1zIiwibGluayI6Imh0dHBzOi8vd3d3LmFwZXhzeXN0ZW1zLmNvbS9qb2IvMTM1Mjk1MF91c2Evc2VuaW9yLWZ1bGxzdGFjay1kZXZlbG9wZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Web Developer",
+      "company_name": "Bucknell University",
+      "location": "  Lewisburg, PA   ",
+      "via": "via The Chronicle Of Higher Education Jobs",
+      "description": "Web Developer\n\nJob No: 497325...\n\nPosition Type: full-time\n\nLocation: Lewisburg, PA\n\nCategories: Other, Communications / PR / Marketing\n\nThe Web Developer primary responsibilities revolve around\nsupporting, front and back-end development while enhancing\nBucknell's digital presence (public website, intranet, blogs,\nmobile applications, third-party software), with a particular\nemphasis on prospective student and alumni engagement. This\nposition reports to the Associate Director of Web & Digital\nCommunications and is part of the Division of Communications. The\nWeb Developer works with the latest web technologies and software\ndevelopment processes to meet the growing complex information needs\nof the University. This hands-on position works collaboratively\nwith colleagues in the Division of Communications team and the\nbroader campus community, as well as independently, and serves as a\nweb developer with the Digital Communications team in areas of\nanalysis, design, modification and maintenance of web applications\nand integrated systems.\n\nJob Duties:\nProject Management\n\n● Serve as a project manager and liaison with campus partners who\nhave responsibility for providing or creating content for\ndepartmental web pages.\n\n● Provide web content management guidance, training and\nexpertise.\n\n● Ensure that University visual identity design and branding\nstandards are upheld.\n\n● Participate in decisions concerning the design and architecture\nof Bucknell's websites.\n\n● Create design documents, mock-ups and proof of concept systems\nfor new web features.\n\n● Establish and manage multiple projects simultaneously using a\nproject management system. Create project schedules and ensure that\nmilestones and deadlines are consistently achieved.\n\nEmail & Communication\n\n● Coordinate, test and produce targeted email campaigns for\nconstituencies across the University, incorporating\nindustry-related best practices to create messages that display\nwell and are responsive across all common email clients.\n\n● Develop and maintain web services and APIs for data connectivity\nbetween multiple sources.\n\n● Create, and maintain design templates.\n\nBrowser & Compatibility\n\n● Resolve browser compatibility issues and program bugs, and design\nresponsive and mobile-friendly user interface.\n\n● Ensure cross-browser, cross-platform and cross-device\ncompatibility, as well as methods for degrading for older browsers\nand displays.\n\nContent Management Systems\n\n● Create, edit and enhance web content using a Content Management\nSystem (CMS).\n\n● Manage front- and back-end development and maintenance of\nBucknell's content management systems. This includes, but not\nlimited to, system design, user experience and accessibility.\n\nCoding & Development\n\n● A strong work ethic and passion for backend development\n\n●Build and maintain responsive websites and mobile-first\nstructure.\n\n●Assist campus partners with web-related requests requiring\ntechnical support such as editing HTML/CSS, JavaScript and PHP on\nweb products, and all web-related requests.\n\n●Local environment setup of the Linux, Apache, PHP and MySQL.\n\n●Expertise in using Git, CI tools and Containerized\nenvironments\n\n●Troubleshoot and resolve technical issues, and perform regular\nupgrades or enhancements to improve efficiency and\nperformance.\n\n●Participate in all phases of the software development life\ncycle.\n\n●Participate in assigned projects to include, but not limited to,\nthe migration of departmental sites and application systems.\n\n●Perform quality assurance testing and debugging.\n\n●Uphold University styles and best practices when creating content,\nwriting for the web, and when using grammar, spelling, links,\nimages and design\n\nSecurity & Performance\n\n● Develop strategies for ongoing improvement and optimization of\nwebsite load speed and site performance.\n\n● Uphold file compression techniques for improving website\nperformance and user experience.\n\n● Manage and maintain high-quality, secure, standards-compliant\nwebsites and digital experiences.\n\nGeneral Duties\n\n● Support high-level University goals and initiatives related, but\nnot limited, to Bucknell's communications and marketing strategy\nand admissions, alumni relations and fundraising goals.\n\n● Develop and maintain strong collaborative working relationships\nwith other members of the Digital Communications team, the Division\nof Communications and essential Library & Information\nTechnology (L&IT) staff.\n\n● Contribute to a work environment that encourages understanding\nof, respect for and development of skills to engage with those of\nother cultures or backgrounds.\n\n● Maintain, respect and protect the confidentiality of information\nheld within, or transferred across, the University's computer and\ncommunication resources in any format.\n\n● Perform other responsibilities as assigned.\n\nMinimum Qualifications:\n● Bachelor's degree and two\nyears of directly related experience or, in lieu of education, six\nyears of directly related work experience.\n\n● Strong attention to detail; and demonstrated organizational,\ntime-management and multi-tasking skills with the ability to handle\nmultiple projects in a fast-paced, deadline-oriented\nenvironment.\n\n● Expert knowledge in browser compatibilities issues; responsive\nand mobile-first design concept; and best practices in front-end\ndesign and implementation.\n\n● Knowledgeable in front and back-end languages such as Javascript,\nHTML5, CSS3 and PHP.\n\n● Local development experience using LAMP, MAMP or WAMP.\n\n● Skill in creating, normalizing and securing databases using\nvarious database offerings. (MySQL, SQL, Oracle).\n\n● Expert level knowledge of front-end development languages and\nability to hand code HTML, CSS and JavaScript.\n\n● Familiarity with Drupal 8 themes using Twig and custom module\ndevelopment.\n\n● Knowledge and experience with cloud hosting services like Acquia\nand Pantheon.\n\n● Knowledge of GIT or SVN code versioning systems.\n\n● Mysql database backup and restoration into a local development\nenvironment.\n\n● Ability to quickly learn new systems and software and demonstrate\ninitiative to learn new skills and stay current in the\nprofession.\n\n● Experience in application development methodologies, including\ndocumenting data. flows, user workflows, understanding backend\nAPIs, and building functional prototypes.\n\n● Excellent written and verbal communication skills, including the\nability to convey technical concepts to non-technical\ncolleagues.\n\nPreferred Qualifications:\n● Bachelor's degree in\ninformation technology, computer science, communications, or a\nrelated field and two years of related experience required.\n\n● Knowledge of Drupal related command-line tools. (Drush)\n\n● Experience utilizing ASP.NET or C#.\n\n● Working knowledge of the Adobe Creative Suite.\n\n● Experience with large enterprise-wide websites over 5000\npages.\n\n● Experience with Drupal and Wordpress content management\nsystem.\n\n● Experience writing for the web, search engine optimization, and\nsearch engine marketing.\n\n● Experience with Google Analytics or a comparative analysis and\nreporting system.\n\n● Experience managing, customizing and strategizing about social\nmedia/networking tools.\n\n● Previous experience in higher education.\n\nWork Type:\n\nThis is a full-time, year round, benefits eligible position. This\nposition will be considered for scheduling flexibility to work in a\nhybrid capacity based on staffing and business needs.\n\nThis role is not budgeted for visa sponsorship at this time, all\ncandidates must be authorized to work in the US at the time of\nsubmission of the application.\n\nSalary Range:\n\nThis is a Staff Exempt position with a hiring range of $63,800 -\n$79,750 (E10). The offer rate will be based on a review of the\ncandidate's credentials compared to the qualifications of the\nposition, internal equity, and our overall compensation\nphilosophy.\n\nBenefits:\n\nEligible full- and part-time employees are compensated beyond base\nsalary through our total rewards package that includes (but is not\nlimited to):\n\n- flexible scheduling options determined by role;\n\n- medical, prescription drug, vision, dental, life, and long-term\ndisability insurance options\n\n- an outstanding 10% employer contribution to your retirement plan\n(no contribution requirement for non-exempt positions)\n\n- generous paid time off, including vacation and sick time, a\ncommunity service day, and 19 paid holidays (including two full\nweeks off for Winter Break!)\n\n- full-time and part-time members of the faculty and staff are\neligible for tuition remission for themselves. Additionally,\nfull-time members of the faculty and staff are eligible for tuition\nremission for their spouse/spousal equivalent and are eligible for\nvarious tuition programs for their children. Credit for full-time\nbenefits eligible employment at other institutions of higher\neducation will be applied to waiting periods.\n\n- a comprehensive employee wellness program including program\nincentives\n\n- a myriad of other benefits, including parental leave, an employee\nassistance program, fitness center membership, and the power of\nyour Bucknell ID card\n\nTo learn more about Bucknell's benefits, click\nhere! (*Eligibility criteria and waiting periods may\napply.)\n\nDiversity, Equity & Inclusion:\nBucknell\nis committed to fostering an environment that embraces diversity,\nequity and inclusion, and seeks candidates who will contribute to a\nclimate that supports the growth and development of a diverse\ncampus community. We endeavor to enhance our capacity to value and\ncapitalize on the cultural richness that diversity brings. We\nencourage all individuals to apply and do not discriminate in\nadmissions, employment, educational programs and/or activities on\nthe basis of race, color, national or ethnic origin, age, religion,\ndisability, pregnancy, sex/gender, gender identity and/or\nexpression, sexual orientation, marital or family status, military\nor veteran status, or genetic information.\n\nTo apply, visit https://careers.bucknell.edu/en-us/job/497325/web-developer\n\njeid-265329544230824b8569066e9eb3e333",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Ensure that University visual identity design and branding",
+            "Resolve browser compatibility issues and program bugs, and design",
+            "limited to, system design, user experience and accessibility",
+            "writing for the web, and when using grammar, spelling, links,",
+            "Bachelor's degree and two",
+            "years of directly related experience or, in lieu of education, six",
+            "Strong attention to detail; and demonstrated organizational,",
+            "time-management and multi-tasking skills with the ability to handle",
+            "multiple projects in a fast-paced, deadline-oriented",
+            "Knowledgeable in front and back-end languages such as Javascript,",
+            "HTML5, CSS3 and PHP",
+            "Local development experience using LAMP, MAMP or WAMP",
+            "Skill in creating, normalizing and securing databases using",
+            "Expert level knowledge of front-end development languages and",
+            "ability to hand code HTML, CSS and JavaScript",
+            "Familiarity with Drupal 8 themes using Twig and custom module",
+            "initiative to learn new skills and stay current in the",
+            "Experience in application development methodologies, including",
+            "Excellent written and verbal communication skills, including the",
+            "ability to convey technical concepts to non-technical",
+            "information technology, computer science, communications, or a",
+            "related field and two years of related experience required",
+            "Knowledge of Drupal related command-line tools",
+            "Experience utilizing ASP",
+            "NET or C#",
+            "Working knowledge of the Adobe Creative Suite",
+            "Experience with Drupal and Wordpress content management",
+            "Experience writing for the web, search engine optimization, and",
+            "Previous experience in higher education",
+            "candidates must be authorized to work in the US at the time of"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "The Web Developer primary responsibilities revolve around",
+            "supporting, front and back-end development while enhancing",
+            "Web Developer works with the latest web technologies and software",
+            "with colleagues in the Division of Communications team and the",
+            "analysis, design, modification and maintenance of web applications",
+            "and integrated systems",
+            "Serve as a project manager and liaison with campus partners who",
+            "have responsibility for providing or creating content for",
+            "Provide web content management guidance, training and",
+            "Create design documents, mock-ups and proof of concept systems",
+            "Establish and manage multiple projects simultaneously using a",
+            "project management system",
+            "Create project schedules and ensure that",
+            "milestones and deadlines are consistently achieved",
+            "Coordinate, test and produce targeted email campaigns for",
+            "constituencies across the University, incorporating",
+            "industry-related best practices to create messages that display",
+            "well and are responsive across all common email clients",
+            "Develop and maintain web services and APIs for data connectivity",
+            "Create, and maintain design templates",
+            "responsive and mobile-friendly user interface",
+            "Ensure cross-browser, cross-platform and cross-device",
+            "compatibility, as well as methods for degrading for older browsers",
+            "Create, edit and enhance web content using a Content Management",
+            "System (CMS)",
+            "Manage front- and back-end development and maintenance of",
+            "A strong work ethic and passion for backend development",
+            "Build and maintain responsive websites and mobile-first",
+            "Assist campus partners with web-related requests requiring",
+            "Troubleshoot and resolve technical issues, and perform regular",
+            "upgrades or enhancements to improve efficiency and",
+            "Participate in all phases of the software development life",
+            "Participate in assigned projects to include, but not limited to,",
+            "Perform quality assurance testing and debugging",
+            "website load speed and site performance",
+            "Uphold file compression techniques for improving website",
+            "Support high-level University goals and initiatives related, but",
+            "Develop and maintain strong collaborative working relationships",
+            "with other members of the Digital Communications team, the Division",
+            "Contribute to a work environment that encourages understanding",
+            "of, respect for and development of skills to engage with those of",
+            "Maintain, respect and protect the confidentiality of information",
+            "held within, or transferred across, the University's computer and",
+            "communication resources in any format",
+            "Perform other responsibilities as assigned",
+            "Mysql database backup and restoration into a local development",
+            "flows, user workflows, understanding backend",
+            "position will be considered for scheduling flexibility to work in a"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "This is a full-time, year round, benefits eligible position",
+            "This is a Staff Exempt position with a hiring range of $63,800 -",
+            "Eligible full- and part-time employees are compensated beyond base",
+            "salary through our total rewards package that includes (but is not",
+            "flexible scheduling options determined by role;",
+            "medical, prescription drug, vision, dental, life, and long-term",
+            "disability insurance options",
+            "an outstanding 10% employer contribution to your retirement plan",
+            "(no contribution requirement for non-exempt positions)",
+            "generous paid time off, including vacation and sick time, a",
+            "community service day, and 19 paid holidays (including two full",
+            "weeks off for Winter Break!)",
+            "eligible for tuition remission for themselves",
+            "remission for their spouse/spousal equivalent and are eligible for",
+            "various tuition programs for their children",
+            "Credit for full-time",
+            "benefits eligible employment at other institutions of higher",
+            "a comprehensive employee wellness program including program",
+            "incentives",
+            "a myriad of other benefits, including parental leave, an employee",
+            "assistance program, fitness center membership, and the power of"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.bucknell.edu/",
+          "text": "bucknell.edu"
+        },
+        {
+          "link": "https://www.google.com/search?q=Bucknell+University&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCMsL",
+          "text": "See web results for Bucknell University"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMMiyCRdOc_z7qrp9b7PWblXxDHX0wTNLS3U6ovgY&s",
+      "extensions": [
+        "24 days ago",
+        "Full-time",
+        "Health insurance",
+        "Dental insurance",
+        "Paid time off"
+      ],
+      "detected_extensions": {
+        "posted_at": "24 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJXZWIgRGV2ZWxvcGVyIiwiaHRpZG9jaWQiOiJabWs2SHVQUlE5Y0FBQUFBQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFdmNCQ3JjQlFVVnpOMnBPVTFvMVFVbE5VMjlsUWpjMGRUQTFaRW80V0ZwRVRHZG5VMHQwVFd0ZlprMXhhbTB0ZG1VemQxSjFPRlZtYTBRelJEVnRRMFpDYzE4M2FVRjJNV1p4VEU4MFdHVnZaRkJMV1RGNFExaDVObGh2ZFZFNVgycFpTSGhWT1hsR1lrOTNTM2cxUXpoWmRFcHZNMUZ3UW14ZmFWcHpUSEpDVG5aME5FRXpTREZxZGxsaWJHaFplbk5VTWxKZlVubzBXa05xV0dZeFdEVkpjelJVUTFac2RtOVhlVEkxTTNsQlpHeHBOa2czVUhsQ1RreHZFaGRRUWtvM1dra3lUa2hNVTJrMVRtOVFaelJQT0dsQmJ4b2lRVTh0TUhKc05XczJVMGhKVkVOUlFsazVjMGhqVmxocmFqSm1YMEpOUTFkWVFRIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfNyIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBUaGUgQ2hyb25pY2xlIE9mIEhpZ2hlciBFZHVjYXRpb24gSm9icyIsImxpbmsiOiJodHRwczovL2pvYnMuY2hyb25pY2xlLmNvbS9qb2IvMzc0NTg2MDYvd2ViLWRldmVsb3Blcj91dG1fY2FtcGFpZ249Z29vZ2xlX2pvYnNfYXBwbHlcdTAwMjZ1dG1fc291cmNlPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX21lZGl1bT1vcmdhbmljIn19"
+    },
+    {
+      "title": "Sr. Java Developer",
+      "company_name": "Chubb INA Holdings Inc.",
+      "location": "  Philadelphia, PA   ",
+      "via": "via Chubb Careers",
+      "description": "Chubb Information Technology department is looking for a Senior Java developer that will have responsibility for the design and development of Commercial Underwriting Workstation (CUW), UW Experience components, Workflow components to support North America Commercial Field Operations. This position requires strong knowledge of Java technologies and WebSphere Application Server. It also requires a... self-starter and a team player with a strong technical foundation in application development. A suitable candidate is an experienced Java developer with good knowledge of HTML5, CSS, Java, JavaScript, XML, XSLT, XPath, REST, Microservices and RDBMS technologies. This role requires knowledge of agile/scrum, change orientation and effective communication capabilities.\n\nScope/Responsibilities\n• Work closely with enterprise architecture and other IT organizations during conceptual and high-level design for integration solutions.\n• Work with Business and subject matter experts to gather and validate the requirements\n• Prepare detailed design documentation for those services on assigned projects.\n• Partner and work with development application teams providing technical consultation on shared components and applications as part of strategic business projects.\n• Develop enterprise solutions utilizing WebSphere Application Server/Java/JavaScript.\n• Design Web-based applications, Web services and MQ/JMS/Kafka services solutions based on business need.\n• Test and optimize solutions.\n• Estimate scope and effort accurately.\n• Prepare and maintain appropriate systems documentation.\n• Provide production support for the CUW and UW Experience Components.\n• Provide timely and accurate reporting of progress, status, and issues.\n• Provide guidance or mentorship to the team where applicable\n• Provide inputs to testing scope and review artifacts\n• Identify, escalate and mitigate challenges in delivery both from technical and functional stand point\n\nQualifications\n\nSkills, Knowledge, and Experience:\n• Bachelor's or Master's Degree in Computer Science, Information Systems\n• Minimum 5-8 years related industry experience in system development and implementation.\n• A minimum of 5 years of hands-on experience in developing applications using Java, JavaScript, HTML, XML, XSLT, XPATH and Relational Database like DB2, SQL Server, Oracle, etc.\n• Strong foundation of Object Oriented Programming, knowledge of concurrency/ multithreaded architecture, Collections framework, understanding of JVM and Garbage Collection.\n• Knowledge of Lambda Expressions, Java Streams and JAXB is a plus\n• Good understanding of Data Structures and algorithms is a must\n• Knowledge of Java frameworks like Spring / Spring boot is a plus\n• Knowledge of Angular JS Framework and TypeScript to develop web applications is required\n• Experience developing Web Services (SOAP and REST) is required. Experience in designing and implementing Apache CXF RESTful services and MQ-triggered services is desired. Experience working with Kafka is a plus\n• Experience with any of the following is a plus:\n• Build Forge for application deployment\n• RedHat Drools rules engine\n• Appworks or Metastorm BPM platforms\n• Smalltalk UI development tool\n• Experience with P&C Insurance software applications is a plus\n• Strong knowledge of Agile development methodologies including some of the following: Scrum, Kanban, Lean, Test-driven development, and Behavior-driven development preferred.\n• Strong analytic and problem-solving skills is required\n• Looking for a Team player that puts the success of the team ahead of their personal success\n• Looking for Results, action-oriented, with a “whatever it takes” attitude\n• Looking for a candidate that shows concern for quality in their work and practices continuous improvement\n• Interacts professionally, appropriately and courteously with co-workers\n\nCritical Skills\n\nAdaptability- Agility. Responds well to change. Handles multiple demands / priorities effectively. Adapts to best fit with situation at hand. Handles conflict effectively. Collaborates. Develops new skills quickly. Willing to accept new responsibilities. Takes initiative & accountability.\n\nIT Methodologies. Good organizational skills. Has experience managing projects and staff. Advanced technical skills or specialized knowledge. Analyzes tasks, dependencies, and resource needs. Manages budgets and performs financial activities effectively. Understands system development life cycle (SDLC) including AGILE methodology; uses project methodologies.\n\nBusiness Knowledge. Learning Orientation. Solves problems. Understands fundamentals of insurance, IT best practices, and technology. Understands business processes and process improvement. Connects business problems to technical solutions. Validates that solutions achieve desired business result.\n\nDeliverables Management. Matches business requirements to deliverables.\n\nUnderstands & meets deadlines. Holds others accountable. Proactive identification and management of risk. Manages multiple work streams. Works effectively across multiple groups (both internal and external). Has experience managing scope and change control.\n\nCommunication. Communicates effectively both written and oral. Responds to customers appropriately, timely, and accurately. Manages relationships effectively. Influences others. Transfers knowledge to others. Has experience working with multi-vendor projects and related communications challenges\n\nEEO Statement\n\nAt Chubb, we are committed to equal employment opportunity and compliance with all laws and regulations pertaining to it. Our policy is to provide employment, training, compensation, promotion,and other conditions or opportunities of employment, without regard to race, color, religious creed, sex, gender, gender identity, gender expression, sexual orientation, marital status, national origin,ancestry, mental and physical disability, medical condition, genetic information, military and veteran status, age, and pregnancy or any other characteristic protected by law.Performance and qualifications are the only basis upon which we hire, assign, promote, compensate, develop and retain employees. Chubb prohibits all unlawful discrimination, harassment and retaliationagainst any individual who reports discrimination or harassment",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "It also requires a self-starter and a team player with a strong technical foundation in application development",
+            "A suitable candidate is an experienced Java developer with good knowledge of HTML5, CSS, Java, JavaScript, XML, XSLT, XPath, REST, Microservices and RDBMS technologies",
+            "This role requires knowledge of agile/scrum, change orientation and effective communication capabilities",
+            "Bachelor's or Master's Degree in Computer Science, Information Systems",
+            "Minimum 5-8 years related industry experience in system development and implementation",
+            "A minimum of 5 years of hands-on experience in developing applications using Java, JavaScript, HTML, XML, XSLT, XPATH and Relational Database like DB2, SQL Server, Oracle, etc",
+            "Strong foundation of Object Oriented Programming, knowledge of concurrency/ multithreaded architecture, Collections framework, understanding of JVM and Garbage Collection",
+            "Good understanding of Data Structures and algorithms is a must",
+            "Knowledge of Angular JS Framework and TypeScript to develop web applications is required",
+            "Experience developing Web Services (SOAP and REST) is required",
+            "Build Forge for application deployment",
+            "Smalltalk UI development tool",
+            "Strong analytic and problem-solving skills is required",
+            "Looking for a Team player that puts the success of the team ahead of their personal success",
+            "Looking for Results, action-oriented, with a “whatever it takes” attitude",
+            "Looking for a candidate that shows concern for quality in their work and practices continuous improvement",
+            "Interacts professionally, appropriately and courteously with co-workers",
+            "Adaptability- Agility",
+            "Good organizational skills",
+            "Has experience managing projects and staff",
+            "Advanced technical skills or specialized knowledge",
+            "Understands system development life cycle (SDLC) including AGILE methodology; uses project methodologies",
+            "Understands fundamentals of insurance, IT best practices, and technology",
+            "Has experience managing scope and change control",
+            "Has experience working with multi-vendor projects and related communications challenges"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "Work closely with enterprise architecture and other IT organizations during conceptual and high-level design for integration solutions",
+            "Work with Business and subject matter experts to gather and validate the requirements",
+            "Prepare detailed design documentation for those services on assigned projects",
+            "Partner and work with development application teams providing technical consultation on shared components and applications as part of strategic business projects",
+            "Develop enterprise solutions utilizing WebSphere Application Server/Java/JavaScript",
+            "Design Web-based applications, Web services and MQ/JMS/Kafka services solutions based on business need",
+            "Test and optimize solutions",
+            "Estimate scope and effort accurately",
+            "Prepare and maintain appropriate systems documentation",
+            "Provide production support for the CUW and UW Experience Components",
+            "Provide timely and accurate reporting of progress, status, and issues",
+            "Provide guidance or mentorship to the team where applicable",
+            "Provide inputs to testing scope and review artifacts",
+            "Identify, escalate and mitigate challenges in delivery both from technical and functional stand point",
+            "Handles conflict effectively",
+            "Takes initiative & accountability",
+            "IT Methodologies",
+            "Analyzes tasks, dependencies, and resource needs",
+            "Manages budgets and performs financial activities effectively",
+            "Connects business problems to technical solutions",
+            "Validates that solutions achieve desired business result",
+            "Deliverables Management",
+            "Holds others accountable",
+            "Proactive identification and management of risk",
+            "Manages multiple work streams",
+            "Works effectively across multiple groups (both internal and external)",
+            "Responds to customers appropriately, timely, and accurately",
+            "Manages relationships effectively"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.acelimited.com/",
+          "text": "acelimited.com"
+        },
+        {
+          "link": "https://www.google.com/search?q=Chubb+INA+Holdings+Inc.&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCJIM",
+          "text": "See web results for Chubb INA Holdings Inc."
+        }
+      ],
+      "extensions": ["3 days ago", "Full-time"],
+      "detected_extensions": {
+        "posted_at": "3 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJTci4gSmF2YSBEZXZlbG9wZXIiLCJodGlkb2NpZCI6IktibUs2c3dHSHNnQUFBQUFBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VWFJoWldSUmIzUjFWRFJmVGw4elNuTm1kR1p6VGpCbVFUUmFWbWRQWWt4RVpYWm1OM0J6UkZabVEzcExZMjlsVGpodFZIbEZXbkptTld0eVdVaEZNamxPTVRsVFdGQjRXRlZwU1d0WWN6VTVhVW80WldOWmMwc3dWV2hKVG1OdlJUbFJSbFJqYzBVMlMwUmFRbll3Vm5CdFQxZG5ZazlhVURNek9EZ3hNMkpxYTBsRk4zZHhPWEV6ZVcxYVlTMVRlSFpwZVZkTGRUQkRhbWRCV0Y5TGRrVjZaamhpZEV4dFQxWkJUVVI1VEUxT1JVWkNZMjl5TWpodk1HWm9kVVl5TFRNelFtSldFaGRRUWtvM1dra3lUa2hNVTJrMVRtOVFaelJQT0dsQmJ4b2lRVTh0TUhKc05WWlhhRVpsWm1Sa05rVXhhbFpQT1RGdWJsVk9NR2MxTjJaMmR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfOSIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBDaHViYiBDYXJlZXJzIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy5jaHViYi5jb20vZ2xvYmFsL2VuL2pvYi8zNTI2MjEvU3ItSmF2YS1EZXZlbG9wZXI/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Junior Database Developer",
+      "company_name": "CornerStone Professional Placement",
+      "location": "  Plano, TX   ",
+      "via": "via CornerStone Professional Placement - CornerStone Staffing",
+      "description": "We are seeking a Junior Database Developer to join our team and contribute to the stability, reliability, and performance of our database. In this role, you will be responsible for supporting tickets, building scripts, and updating the database. Your primary focus will be on writing optimized SQL statements, performing query tuning, and ensuring efficient database operations. Additionally, you... will collaborate with team members and stakeholders to design and develop the database schema, tables, and dictionaries. This is an excellent opportunity to develop high-quality database solutions and gain valuable experience in a dynamic environment.\n\nResponsibilities:\n• Write and optimize SQL statements within applications\n• Perform query tuning and writing to enhance performance\n• Prepare comprehensive documentation and specifications\n• Profile server resource usage and optimize as needed\n• Collaborate with team members and stakeholders\n• Work with the application development team to design and develop the table and database structures\n• Develop high-quality database solutions\n• Implement and optimize stored procedures and functions using T-SQL\n• Create procedures and scripts for data migration\n\nSkills/Experience Required:\n• 3+ years of experience in database development and support in MS SQL Server environments\n• Strong SQL development skills, including writing and troubleshooting SQL code (stored procedures, functions, tables, views, triggers, indexes, constraints)\n• Experience in database design and modeling\n• Proficient in debugging, tuning, and optimizing SQL code\n• Familiarity with performance tuning and query optimization using tools such as Performance Monitor and SQL Profiler\n• Knowledge of SQL Server Integration Services (SSIS) and its utilization in database operations\n\nCompensation: 120k-150k DOE",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "3+ years of experience in database development and support in MS SQL Server environments",
+            "Strong SQL development skills, including writing and troubleshooting SQL code (stored procedures, functions, tables, views, triggers, indexes, constraints)",
+            "Experience in database design and modeling",
+            "Proficient in debugging, tuning, and optimizing SQL code",
+            "Familiarity with performance tuning and query optimization using tools such as Performance Monitor and SQL Profiler",
+            "Knowledge of SQL Server Integration Services (SSIS) and its utilization in database operations"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "In this role, you will be responsible for supporting tickets, building scripts, and updating the database",
+            "Your primary focus will be on writing optimized SQL statements, performing query tuning, and ensuring efficient database operations",
+            "Additionally, you will collaborate with team members and stakeholders to design and develop the database schema, tables, and dictionaries",
+            "Write and optimize SQL statements within applications",
+            "Perform query tuning and writing to enhance performance",
+            "Prepare comprehensive documentation and specifications",
+            "Profile server resource usage and optimize as needed",
+            "Work with the application development team to design and develop the table and database structures",
+            "Develop high-quality database solutions",
+            "Implement and optimize stored procedures and functions using T-SQL",
+            "Create procedures and scripts for data migration"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?q=CornerStone+Professional+Placement&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCNQM",
+          "text": "See web results for CornerStone Professional Placement"
+        }
+      ],
+      "extensions": ["2 days ago", "Full-time", "No degree mentioned"],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJKdW5pb3IgRGF0YWJhc2UgRGV2ZWxvcGVyIiwiaHRpZG9jaWQiOiJSUGNYT0lsUE94c0FBQUFBQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFb3dDQ3N3QlFVVnpOMnBPVVdoUFEyWXdiM0l6UzBOeWJITldjRUZ2Wm1VNFpXSlZZekJ1YVZVeVVHTkdabXhmWm1RdFJEaGFPWEZTZDNjNWVYWXlPWFZsYkROUVpHWm5OVmhIYXpSQlZVMWZjemxYZURReWMyZElka2xITjA5Qk0zUXlkSEJIZEd0VlZtaEZkVlJXUjBGUFluTkxWa0Y2WVVKR09UQTRRWEJKTVRkUldsQmtVR0ZWWm5CeGVXeGpiV2t4Y1cxTlNsTm5PV0ZwUmxRMFVVbENUWEozUWw4MmIzRTVXSE5ET1ZWRk5HSnpkRFphVkU1bFVGTnJMVmxzZHkxV2JuZGxTbTFuTmtSeGVpMVpha2hQRWhkUVFrbzNXa2t5VGtoTVUyazFUbTlRWnpSUE9HbEJieG9pUVU4dE1ISnNOemx2UlhaTVJsQm5VSEowTUVZMmNtTlpNRFJyU1hNd2N5MHhVUSIsImZjdiI6IjMiLCJmY19pZCI6ImZjXzExIiwiYXBwbHlfbGluayI6eyJ0aXRsZSI6IkFwcGx5IG9uIENvcm5lclN0b25lIFByb2Zlc3Npb25hbCBQbGFjZW1lbnQgLSBDb3JuZXJTdG9uZSBTdGFmZmluZyIsImxpbmsiOiJodHRwczovL3Byb2Zlc3Npb25hbGNhcmVlcnMuY29ybmVyc3RvbmVzdGFmZmluZy5jb20vanVuaW9yLWRhdGFiYXNlLWRldmVsb3Blci9qb2IvMjQ5NjQ5NjA/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Lead, Full-Stack Developer",
+      "company_name": "BNY Mellon",
+      "location": "  Pittsburgh, PA   ",
+      "via": "via Orion Talent",
+      "description": "Overview\n\nWM Tech Portfolio Management and Trading - Backend Services Developer...\n\nMotivation\n• This role will be a engineering development backend services role working as an Agile SCRUM team member with a primary responsibility of software engineering and development with a focus on services development. This role will have end to end accountability of development, unit testing, supporting multiple test phases, deployment and also ownership of the code after releasing in production.\n\nQualifications\n• Experience of working in services tool sets & programming languages - Java, Spring, Python, SQL\n• Experience and understanding of design patterns culminating into microservices development.\n• Experience on working on high throughput microservices by leveraging concurrency, multi-core, multi-node solutions supporting multithreading, event-based processing or on developing services to manage high data volume.\n• Aware of RESTFul standards for building services\n• Uses existing and emerging technology platforms to design, develop and document technically detailed applications.\n• Should enjoy quick prototyping, implementing cloud-ready services, building tools to improve end to end application - develop a strong connect with all stakeholders and testing team\n• Knowledge around microservices architecture leveraging other event driven messaging techniques using technologies like KAFKA or similar.\n• S/he writes new complex systems (a grouping of programs involving multiple levels of table dimension and internal sorts that accomplishes a particular new function), designs and codes programs and creates test transactions. S/he also analyzes organizational needs and goals to develop and implement application systems.\n• Provides application software development services or technical support in situations of moderate complexity.\n• Will participate in the full software development life cycle - develop software verification plans and quality assurance procedures. Troubleshoot, debug and upgrade existing systems. Ensure software is updated with latest features.\n• Provide ongoing maintenance, support and enhancements in existing systems and platforms. Provide recommendations for continuous improvement\n• Experience in using a specific application development toolkit and knowledge of backend development coding languages such as Java, Spring, Python, SQL. Must also have knowledge in application frameworks and containerization.\n\nGood to have\n• Demonstrate team-work. Leverage existing products/functionality and promote reuse.\n• Work alongside other engineers on the team to elevate technology and consistently apply best practices.\n• Finance domain experience is a good to have\n• Collaborate closely with all the other members of the team to take shared responsibility for the overall efforts that the team has committed to.\n• Collaborate cross-functionally with data engineers, business users, project managers and other engineers to achieve elegant solutions.\n• Utilize local meetups to gain and share knowledge.\n\nEducation and experience\n• Bachelor's degree in computer science engineering or a related discipline, or equivalent work experience required\n\nConsults with internal business groups to provide high-level application software development services or technical support. Must have thorough and demonstrative knowledge on or both the user-side frontend of a website, as well as the backend, server-side that powers the user-side. Additional requirements include intermediate understanding of security principles, relational databases and architecture design principles. Provides comprehensive senior-level technical consulting to IT management and senior technical staffs. Evaluates compliance with the organization's technology standards. Programming well-designed, testable, efficient code. Analyze, design and develop tests and test-automation suites. Develop flowcharts, layouts and documentation to satisfy requirements and solutions. Maintain software functionality and currency (technical debt and gain). Actively participate in code reviews. Integrate software components into a fully functional software system. Apply security and privacy principles. Works with internal business groups on implementation opportunities, challenges, and requirements of various applications. Analyzes information and provides recommendations to address and resolve business issues for a specific business group. Guides and consults with IT management and technical staffs regarding use of emerging technologies and associated services. Participates in defining corporate implementation and integration strategies of new technologies. Active learning engagement. Complete all required mandatory training / policy awareness curricula on time. Use learning tools such as Pluralsight to complete both recommended and aspirational targets set in personal development plans. Stays abreast of emerging technologies. Advocates for innovative, creative technology solutions. Mentors junior level engineers. Expertise in using a specific application development toolkit and proficiency of front end and backend development coding languages such as C#, Java, HTML, NodeJS, CSS, JSON, Angular, JavaScript. Must also have proficiency in application frameworks and containerization. Communications and organization skills; team work skills ; possess strong interpersonal skills to support mentoring. N/A. Contributes to the achievement of area objectives. Bachelor's degree in computer science engineering or a related discipline, or equivalent work experience required. 10-14 years of experience in software development required; experience in the securities or financial services industry is a plus. Job holder must have understanding interdependencies and business impact of future IT plans. S/he must have prior lead experience selecting and implementing vendor-specific methodologies and prior consulting experience with structured methodologies. Job holder must have broad experience with multi-platform development tools and toolkits.. BNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer. Minorities/Females/Individuals with Disabilities/Protected Veterans. Our ambition is to build the best global team - one that is representative and inclusive of the diverse talent, clients and communities we work with and serve - and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums.\n\nBNY Mellon assesses market data to ensure a competitive compensation package for our employees. The base salary for this position is expected to be between $66,000 and $116,000 per year at the commencement of employment. However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNYM total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and Company-sponsored benefit programs.\nThis position is at-will and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance, and market factors.\n\nEmployer Description:\n\nFor over 230 years, the people of BNY Mellon have been at the forefront of finance, expanding the financial markets while supporting investors throughout the investment lifecycle. BNY Mellon can act as a single point of contact for clients looking to create, trade, hold, manage, service, distribute or restructure investments and safeguards nearly one-fifth of the world's financial assets. BNY Mellon remains one of the safest, most trusted and admired companies. Every day our employees make their mark by helping clients better manage and service their financial assets around the world. Whether providing financial services for institutions, corporations or individual investors, clients count on the people of BNY Mellon across time zones and in 35 countries and more than 100 markets. It's the collective ambition, innovative thinking and exceptionally focused client service paired with a commitment to doing what is right that continues to set us apart. Make your mark: bnymellon.com/careers.\n\nEEO Statement:\n\nBNY Mellon is an Equal Employment Opportunity/Affirmative Action Employer. Minorities/Females/Individuals With Disabilities/Protected Veterans. Our ambition is to build the best global team - one that is representative and inclusive of the diverse talent, clients and communities we work with and serve - and to empower our team to do their best work. We support wellbeing and a balanced life, and offer a range of family-friendly, inclusive employment policies and employee forums",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Experience of working in services tool sets & programming languages - Java, Spring, Python, SQL",
+            "Experience and understanding of design patterns culminating into microservices development",
+            "Experience on working on high throughput microservices by leveraging concurrency, multi-core, multi-node solutions supporting multithreading, event-based processing or on developing services to manage high data volume",
+            "Aware of RESTFul standards for building services",
+            "Uses existing and emerging technology platforms to design, develop and document technically detailed applications",
+            "Should enjoy quick prototyping, implementing cloud-ready services, building tools to improve end to end application - develop a strong connect with all stakeholders and testing team",
+            "Knowledge around microservices architecture leveraging other event driven messaging techniques using technologies like KAFKA or similar",
+            "S/he writes new complex systems (a grouping of programs involving multiple levels of table dimension and internal sorts that accomplishes a particular new function), designs and codes programs and creates test transactions",
+            "Must also have knowledge in application frameworks and containerization",
+            "Demonstrate team-work",
+            "Finance domain experience is a good to have",
+            "Bachelor's degree in computer science engineering or a related discipline, or equivalent work experience required",
+            "Additional requirements include intermediate understanding of security principles, relational databases and architecture design principles",
+            "Expertise in using a specific application development toolkit and proficiency of front end and backend development coding languages such as C#, Java, HTML, NodeJS, CSS, JSON, Angular, JavaScript",
+            "Communications and organization skills; team work skills ; possess strong interpersonal skills to support mentoring",
+            "Job holder must have understanding interdependencies and business impact of future IT plans",
+            "S/he must have prior lead experience selecting and implementing vendor-specific methodologies and prior consulting experience with structured methodologies",
+            "Job holder must have broad experience with multi-platform development tools and toolkits."
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role will be a engineering development backend services role working as an Agile SCRUM team member with a primary responsibility of software engineering and development with a focus on services development",
+            "This role will have end to end accountability of development, unit testing, supporting multiple test phases, deployment and also ownership of the code after releasing in production",
+            "S/he also analyzes organizational needs and goals to develop and implement application systems",
+            "Provides application software development services or technical support in situations of moderate complexity",
+            "Will participate in the full software development life cycle - develop software verification plans and quality assurance procedures",
+            "Troubleshoot, debug and upgrade existing systems",
+            "Ensure software is updated with latest features",
+            "Provide ongoing maintenance, support and enhancements in existing systems and platforms",
+            "Provide recommendations for continuous improvement",
+            "Leverage existing products/functionality and promote reuse",
+            "Work alongside other engineers on the team to elevate technology and consistently apply best practices",
+            "Collaborate closely with all the other members of the team to take shared responsibility for the overall efforts that the team has committed to",
+            "Collaborate cross-functionally with data engineers, business users, project managers and other engineers to achieve elegant solutions",
+            "Utilize local meetups to gain and share knowledge",
+            "Provides comprehensive senior-level technical consulting to IT management and senior technical staffs",
+            "Evaluates compliance with the organization's technology standards",
+            "Programming well-designed, testable, efficient code",
+            "Analyze, design and develop tests and test-automation suites",
+            "Develop flowcharts, layouts and documentation to satisfy requirements and solutions",
+            "Maintain software functionality and currency (technical debt and gain)",
+            "Actively participate in code reviews",
+            "Integrate software components into a fully functional software system",
+            "Apply security and privacy principles",
+            "Works with internal business groups on implementation opportunities, challenges, and requirements of various applications",
+            "Analyzes information and provides recommendations to address and resolve business issues for a specific business group",
+            "Guides and consults with IT management and technical staffs regarding use of emerging technologies and associated services",
+            "Participates in defining corporate implementation and integration strategies of new technologies",
+            "Active learning engagement",
+            "Complete all required mandatory training / policy awareness curricula on time",
+            "Use learning tools such as Pluralsight to complete both recommended and aspirational targets set in personal development plans"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": [
+            "The base salary for this position is expected to be between $66,000 and $116,000 per year at the commencement of employment",
+            "However, base salary if hired will be determined on an individualized basis, including as to experience and market location, and is only part of the BNYM total compensation package, which, depending on the position, may also include commission earnings, discretionary bonuses, short and long-term incentive packages, and Company-sponsored benefit programs",
+            "This position is at-will and the Company reserves the right to modify base salary (as well as any other discretionary payment or compensation) at any time, including for reasons related to individual performance, change in geographic location, Company or individual department/team performance, and market factors"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.bnymellon.com/",
+          "text": "bnymellon.com"
+        },
+        {
+          "link": "https://www.google.com/search?q=BNY+Mellon&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCJgN",
+          "text": "See web results for BNY Mellon"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFzD2WJubm1skncq4UdA5fQY_G20468TUQMWg84Bs&s",
+      "extensions": ["2 days ago", "Full-time"],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJMZWFkLCBGdWxsLVN0YWNrIERldmVsb3BlciIsImh0aWRvY2lkIjoiekc0amFKRWVkOVVBQUFBQUFBQUFBQT09IiwiaGwiOiJlbiIsImZjIjoiRW93Q0Nzd0JRVVZ6TjJwT1ZFWTNibTVLWkhaRVNYcFJObm90Wkd0U2FWbERkV0poYXpFelZDMVhWaTFYUXpCeVVVOTRhRTU2ZDJoUVYwUm5kMGx1VG1KdWJHaFhiMmRJWVRaSUxWWmlUbkpEVm1WVGNHOXVUazF5T0RGSGVWOXhjSFZMTkV4UVV6ZHFNa2x4VXpjeE1WazVlRzQzU0hGSFZFb3pWa2MzUmt4R2J6Wm9UblJqZG5VeE5tdzVTVGcwWTNkYU1XRmFPVFJWVUdOUVZuaGliazl4Y2pKM1p6SXRXRTlFUzFwM1FVUm1NRWhtT0MweGJGSkNYemwyU1RSR2RrMVFTM1Z5TnpscE9VWnNTV2w0YjIxcEVoZFFRa28zV2treVRraE1VMmsxVG05UVp6UlBPR2xCYnhvaVFVOHRNSEpzTmtaUVZHMURhVWxtVFhsVlEzWnVVR2huTUdOeWVGcFhOM1ZXZHciLCJmY3YiOiIzIiwiZmNfaWQiOiJmY18xMiIsImFwcGx5X2xpbmsiOnsidGl0bGUiOiJBcHBseSBvbiBPcmlvbiBUYWxlbnQiLCJsaW5rIjoiaHR0cHM6Ly93d3cub3Jpb250YWxlbnQuY29tL3NlYXJjaC1qb2JzL2NhcmVlci8yODcyODM1L0xlYWQtRnVsbC1TdGFjay1EZXZlbG9wZXItUGVubnN5bHZhbmlhLVBhLVBpdHRzYnVyZ2g/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Applications Developer - (Low code/No code)",
+      "company_name": "Peraton",
+      "location": "  Arlington, VA   ",
+      "via": "via Peraton - ICIMS",
+      "description": "Responsibilities\n\nPeraton is seeking an Applications Developer to join our team of qualified, diverse individuals. The ideal candidate will become part of Peraton’s Department of State (DoS) Diplomatic Security Cyber Mission (DSCM) program providing leading cyber and technology security experience to enable innovative, effective and secure business processes. Peraton’s DSCM program encompasses... technical, engineering, data analytics, cyber security, management, operational, logistical and administrative support to aid and advise DoS Diplomatic Security Cyber Operations. This includes protecting a global cyber infrastructure comprising networks, systems, information, and mobile devices all while identifying and responding to cyber risks and threats. Those supporting Peraton’s DSCM program strive to leverage their expert knowledge and propose creative solutions to real-world cybersecurity challenges.\n\nThe Applications Developer role will be based in Rosslyn, VA. This role supports the Application Development and Web Services section within the TIE Office.\n\nWhat you’ll do:\n• The Applications Developer will be responsible for developing capabilities for internal and external Microsoft MS-based , SharePoint and Team sites as well as all Web-based solutions.\n• Support the full software development life cycle of SharePoint, Teams, and other low-code, no code, web-based solutions.\n• Provide UI/UX mock-ups and guidance for customer review and requirements discussions.\n• Ensure website reviews are conducted for adherence to organization specifications and standards.\n• Provide expert level experience in troubleshooting system-related problems and possess expert knowledge of web design principles and web publishing software and protocols.\n• Have an excellent understanding of Object-Oriented Design/Development and of end-to-end web application architecture, from the layout/user interface to relational database structures.\n• Highly self-motivated and adaptable to learning and understanding new technologies.\n• Have excellent communication skills, be able to effectively prioritize and manage multiple tasks to meet aggressive deadlines and have the ability to work both independently and on a team producing quality work products with attention to detail.\n• Codes, tests, debugs, implements, enhances, and documents web solutions programs (ColdFusion or PowerApps, low-code, or no code solutions).\n• Designs and develops systems to meet business needs.\n• Provides analyses and prepares level-of-effort estimates.\n• Assists in developing and validating system requirements.\n• Remains abreast of industry technical trends and new development to maintain current skills and remain current with industry standards.\n\n#DSCM2022\n\nQualifications\n\nRequired Qualifications:\n• Bachelor’s Degree and 2 years’ experience required. An additional 4 years of experience may be substituted in lieu of a degree.\n• US Citizenship required with the ability to obtain interim Secret security clearance before start date.\n• Interim Secret clearance required to start. Must be able to obtain and maintain a Top Secret clearance.\n• Possess A+ CE, CCNA-Security, CND, Network+ CE, or SSCP or be able to obtain before start date.\n• Experience with SharePoint, Teams, and other low-code, no code, web-based solutions.\n• Knowledge of designing and developing Power Platform (PowerApps, PowerAutomate) solutions for Teams and SharePoint sites consisting of multiple levels and accesses and integration of other applications (e.g., calendars, forms, workflows).\n• Knowledge and experience in web design, web architecture, web development, interface design, or software design.\n\nDesired qualifications:\n• Strong understanding of DevOps practices and Agile methodology.\n• Ability to communicate to all levels of users (internal and external to Department of State), strong problem-solving skills, adaptable, proactive, and willing to take ownership of projects.\n• Strong commitment to quality through work products and documentation of activities/processes/procedures.\n• Ability to conceptualize, present and execute ideas in a timely manner.\n\nPeraton Overview\n\nPeraton drives missions of consequence spanning the globe and extending to the farthest reaches of the galaxy. As the world’s leading mission capability integrator and transformative enterprise IT provider, we deliver trusted and highly differentiated national security solutions and technologies that keep people safe and secure. Peraton serves as a valued partner to essential government agencies across the intelligence, space, cyber, defense, civilian, health, and state and local markets. Every day, our employees do the can’t be done, solving the most daunting challenges facing our customers.\n\nTarget Salary Range\n$51,000 - $82,000. This represents the typical salary range for this position based on experience and other factors.\nEEO Tagline (Text Only)\nAn Equal Opportunity Employer including Disability/Veteran",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "Have an excellent understanding of Object-Oriented Design/Development and of end-to-end web application architecture, from the layout/user interface to relational database structures",
+            "Highly self-motivated and adaptable to learning and understanding new technologies",
+            "Have excellent communication skills, be able to effectively prioritize and manage multiple tasks to meet aggressive deadlines and have the ability to work both independently and on a team producing quality work products with attention to detail",
+            "Bachelor’s Degree and 2 years’ experience required",
+            "An additional 4 years of experience may be substituted in lieu of a degree",
+            "US Citizenship required with the ability to obtain interim Secret security clearance before start date",
+            "Must be able to obtain and maintain a Top Secret clearance",
+            "Possess A+ CE, CCNA-Security, CND, Network+ CE, or SSCP or be able to obtain before start date",
+            "Experience with SharePoint, Teams, and other low-code, no code, web-based solutions",
+            "Knowledge of designing and developing Power Platform (PowerApps, PowerAutomate) solutions for Teams and SharePoint sites consisting of multiple levels and accesses and integration of other applications (e.g., calendars, forms, workflows)",
+            "Knowledge and experience in web design, web architecture, web development, interface design, or software design"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "This role supports the Application Development and Web Services section within the TIE Office",
+            "The Applications Developer will be responsible for developing capabilities for internal and external Microsoft MS-based , SharePoint and Team sites as well as all Web-based solutions",
+            "Support the full software development life cycle of SharePoint, Teams, and other low-code, no code, web-based solutions",
+            "Provide UI/UX mock-ups and guidance for customer review and requirements discussions",
+            "Ensure website reviews are conducted for adherence to organization specifications and standards",
+            "Provide expert level experience in troubleshooting system-related problems and possess expert knowledge of web design principles and web publishing software and protocols",
+            "Codes, tests, debugs, implements, enhances, and documents web solutions programs (ColdFusion or PowerApps, low-code, or no code solutions)",
+            "Designs and develops systems to meet business needs",
+            "Provides analyses and prepares level-of-effort estimates",
+            "Assists in developing and validating system requirements",
+            "Remains abreast of industry technical trends and new development to maintain current skills and remain current with industry standards"
+          ]
+        },
+        {
+          "title": "Benefits",
+          "items": ["$51,000 - $82,000"]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "http://www.peraton.com/",
+          "text": "peraton.com"
+        },
+        {
+          "link": "https://www.google.com/search?q=Peraton&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCNgN",
+          "text": "See web results for Peraton"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz11742pVbvdnvv27ntpv5m6qtWI7o3ZjPRPhZ&s=0",
+      "extensions": ["2 days ago", "Full-time"],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJBcHBsaWNhdGlvbnMgRGV2ZWxvcGVyIC0gKExvdyBjb2RlL05vIGNvZGUpIiwiaHRpZG9jaWQiOiJwaDE0WVZyTXN4Z0FBQUFBQUFBQUFBPT0iLCJobCI6ImVuIiwiZmMiOiJFcUlDQ3VJQlFVVnpOMnBPVkhoMlYxcFJVbDlzZG5WbVRreG5UV1Y2U1hSNmJtUkRVRXAwWW5sbWJGZGpWREEwZGsxcVFrWnFZa0pHYURZNGNUbHFhVXN6Y25oclNtczJSMGhaVEU1UWFGcE5SRkJITlRGTU9FUnJaVXhoTWxOUmNIVkROMDB5ZEVGMFNUQTNOemxUY0ZrdFdWcEZlSFZ0TmtOd1VUSk1WM2hoWlVORE9VVkVUazFOYWkxdWJVdHJPWFpxZVZKeFQwcFpRbEl3U1UxVGMzUkNTVTQ0ZVY5UlVGQnVkbHBIVVVWV1V6TjNPWFEzWnpsa2QzcEtXVVpqU0UxNlZ6TnRVVkJ4VlU1TWVEbHNXRnBSWm5oNUxWbEJXVlpRWnpWZk4xaGxZMVpCYlVNM1FSSVhVRUpLTjFwSk1rNUlURk5wTlU1dlVHYzBUemhwUVc4YUlrRlBMVEJ5YkRjdFkwOURha1p6VDBGUVRHcHlMVEJmWjFWalJuWnVjblZ0ZEZFIiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTQiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgZGlyZWN0bHkgb24gUGVyYXRvbiAtIElDSU1TIiwibGluayI6Imh0dHBzOi8vY2FyZWVycy1wZXJhdG9uLmljaW1zLmNvbS9qb2JzLzEzMzU4OS9hcHBsaWNhdGlvbnMtZGV2ZWxvcGVyLS0tJTI4bG93LWNvZGUtbm8tY29kZSUyOS9qb2I/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    },
+    {
+      "title": "Entry Level Software Developer",
+      "company_name": "Enertia Software Com",
+      "location": "  Midland, TX   ",
+      "via": "via Paylocity",
+      "description": "Description\n\nJob Title: Entry-Level Software Developer...\n\nCompany: Enertia Software\n\nLocation: Midland, TX\n\nType: Full-time\n\nEnertia Software is seeking an entry-level Software Developer to join our dynamic team. As a Software Developer, you will have the opportunity to work on cutting-edge projects, contribute to the development of web API services, and collaborate with a team of talented professionals. This is a perfect role for someone who is eager to learn and grow in a fast-paced environment.\n\nResponsibilities:\n• Develop and maintain web API services using C#, JSON, and SQL.\n• Collaborate with cross-functional teams to understand project requirements and design efficient solutions.\n• Write clean, scalable, and well-documented code.\n• Perform code reviews to ensure high-quality standards and maintain best practices.\n• Troubleshoot and debug software issues, identifying and implementing appropriate solutions.\n• Stay updated with the latest industry trends and technologies, and continuously improve your technical skills.\n\nRequirements:\n• Solid understanding of web API development principles and best practices.\n• Excellent problem-solving and critical thinking abilities.\n• Effective communication skills to collaborate with team members and stakeholders.\n• Ability to work well in a team-oriented, fast-paced environment.\n• Attention to detail and commitment to delivering high-quality work.\n\nPreferred Qualifications:\n• Bachelor's degree in Computer Science, Software Engineering, or a related field (or equivalent work experience).\n• Working knowledge of .Net Framework (C#, VB.Net, etc…), JSON, and SQL.\n• Familiarity with software development tools (Visual Studio).\n• Experience with version control systems (e.g., Git. TFVC).\n• Knowledge of software development methodologies (Agile, Scrum).\n• Understanding of relational database design and development.\n\nAt Enertia Software, we foster a supportive and collaborative work environment that encourages personal growth and professional development. As an entry-level Software Developer, you will receive mentorship from experienced professionals and have opportunities to take on increasing levels of responsibility.\n\nIf you are passionate about software development, enjoy working in a team-driven environment, and are ready to embark on an exciting career journey, we would love to hear from you! Apply now with your resume and a cover letter outlining why you are the perfect fit for this role",
+      "job_highlights": [
+        {
+          "title": "Qualifications",
+          "items": [
+            "This is a perfect role for someone who is eager to learn and grow in a fast-paced environment",
+            "Solid understanding of web API development principles and best practices",
+            "Excellent problem-solving and critical thinking abilities",
+            "Effective communication skills to collaborate with team members and stakeholders",
+            "Ability to work well in a team-oriented, fast-paced environment",
+            "Attention to detail and commitment to delivering high-quality work",
+            "TFVC)",
+            "Knowledge of software development methodologies (Agile, Scrum)",
+            "Understanding of relational database design and development"
+          ]
+        },
+        {
+          "title": "Responsibilities",
+          "items": [
+            "As a Software Developer, you will have the opportunity to work on cutting-edge projects, contribute to the development of web API services, and collaborate with a team of talented professionals",
+            "Develop and maintain web API services using C#, JSON, and SQL",
+            "Collaborate with cross-functional teams to understand project requirements and design efficient solutions",
+            "Write clean, scalable, and well-documented code",
+            "Perform code reviews to ensure high-quality standards and maintain best practices",
+            "Troubleshoot and debug software issues, identifying and implementing appropriate solutions",
+            "Stay updated with the latest industry trends and technologies, and continuously improve your technical skills"
+          ]
+        }
+      ],
+      "related_links": [
+        {
+          "link": "https://www.google.com/search?q=Enertia+Software+Com&sa=X&ved=0ahUKEwiNm4zY7qb_AhU0EVkFHYMBD6EQmJACCJoO",
+          "text": "See web results for Enertia Software Com"
+        }
+      ],
+      "thumbnail": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPNpU13iyx4JHtuEFkr9_qYhyWNt_LEpujzOii0Pk&s",
+      "extensions": ["2 days ago", "Full-time"],
+      "detected_extensions": {
+        "posted_at": "2 days ago",
+        "schedule_type": "Full-time"
+      },
+      "job_id": "eyJqb2JfdGl0bGUiOiJFbnRyeSBMZXZlbCBTb2Z0d2FyZSBEZXZlbG9wZXIiLCJodGlkb2NpZCI6Imt6d19neDMxaldFQUFBQUFBQUFBQUE9PSIsImhsIjoiZW4iLCJmYyI6IkVvd0NDc3dCUVVWek4ycE9VWHBKUjAwdFdVOXZkVmxLZVZweFZURTJTalZrT1MxelNrMUhZVVpuUldWa1ZuaHhObEZFUkRZeVVGUnRXblEwWWtKVVRVcG5TVGwyVTFoRGVHbFhiMnRuWm5wRVMwUkNkR0ZIYkZCS01rczNiRk5TY0hwWVIwWTNlVmxRVHpaQ1RqWjJORTh5UlhKMk1VNXFURlJMTjE4MVF6aFZMWFJFVHpCRlZFZElOSEZDV1VWNVQyaGFORUo0V25sb1YwSjRaVk5sVG5saFZVaDVPVlF3YWxoaVYxUlROVXBCZVhrNVRrSXhSME5HYVRaTU4xODRObTFqU1U4M05FUkNRa3hLUTNoclpqSjRFaGRRUWtvM1dra3lUa2hNVTJrMVRtOVFaelJQT0dsQmJ4b2lRVTh0TUhKc04zbFBPVUoyVDJabWVHUTNibEZ2VjJOWVIwOXdXbTlsYm5GUWR3IiwiZmN2IjoiMyIsImZjX2lkIjoiZmNfMTYiLCJhcHBseV9saW5rIjp7InRpdGxlIjoiQXBwbHkgb24gUGF5bG9jaXR5IiwibGluayI6Imh0dHBzOi8vcmVjcnVpdGluZy5wYXlsb2NpdHkuY29tL1JlY3J1aXRpbmcvSm9icy9EZXRhaWxzLzE3NDk0MjE/dXRtX2NhbXBhaWduPWdvb2dsZV9qb2JzX2FwcGx5XHUwMDI2dXRtX3NvdXJjZT1nb29nbGVfam9ic19hcHBseVx1MDAyNnV0bV9tZWRpdW09b3JnYW5pYyJ9fQ=="
+    }
+  ],
+  "chips": [
+    {
+      "type": "Title",
+      "param": "job_family_1",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Senior",
+          "value": "senior"
+        },
+        {
+          "text": "Software engineer",
+          "value": "software engineer"
+        },
+        {
+          "text": "Engineer",
+          "value": "engineer"
+        },
+        {
+          "text": "Advocate",
+          "value": "advocate"
+        },
+        {
+          "text": "Associate",
+          "value": "associate"
+        },
+        {
+          "text": "Principal",
+          "value": "principal"
+        },
+        {
+          "text": "Support engineer",
+          "value": "support engineer"
+        },
+        {
+          "text": "Analyst",
+          "value": "analyst"
+        },
+        {
+          "text": "Application services",
+          "value": "application services"
+        },
+        {
+          "text": "Business",
+          "value": "business"
+        },
+        {
+          "text": "Business systems",
+          "value": "business systems"
+        },
+        {
+          "text": "Certified",
+          "value": "certified"
+        },
+        {
+          "text": "Community manager",
+          "value": "community manager"
+        },
+        {
+          "text": "Freelance",
+          "value": "freelance"
+        },
+        {
+          "text": "General manager",
+          "value": "general manager"
+        },
+        {
+          "text": "Infrastructure engineer",
+          "value": "infrastructure engineer"
+        },
+        {
+          "text": "It engineer",
+          "value": "it engineer"
+        },
+        {
+          "text": "Maintenance",
+          "value": "maintenance"
+        },
+        {
+          "text": "Marketing",
+          "value": "marketing"
+        },
+        {
+          "text": "Marketing manager",
+          "value": "marketing manager"
+        },
+        {
+          "text": "Programmer",
+          "value": "programmer"
+        },
+        {
+          "text": "Project manager",
+          "value": "project manager"
+        },
+        {
+          "text": "Senior consultant",
+          "value": "senior consultant"
+        },
+        {
+          "text": "Senior specialist",
+          "value": "senior specialist"
+        },
+        {
+          "text": "Services",
+          "value": "services"
+        },
+        {
+          "text": "Software architect",
+          "value": "software architect"
+        },
+        {
+          "text": "Support services",
+          "value": "support services"
+        },
+        {
+          "text": "System",
+          "value": "system"
+        },
+        {
+          "text": "Systems",
+          "value": "systems"
+        },
+        {
+          "text": "Training",
+          "value": "training"
+        }
+      ]
+    },
+    {
+      "type": "Location",
+      "param": "city",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "New York, NY",
+          "value": "Owg_06VPwoli_nfhBo8LyA=="
+        },
+        {
+          "text": "Dallas, TX",
+          "value": "S5dFe_cZTIaPZ0f2pJvsuQ=="
+        },
+        {
+          "text": "Austin, TX",
+          "value": "LwPMoJm1RIZ61WnUS0abXQ=="
+        },
+        {
+          "text": "Washington, DC",
+          "value": "W-T2Wt7Gt4kqXYjUIkVSwg=="
+        },
+        {
+          "text": "Chicago, IL",
+          "value": "7cv00DwsDogAwMAJrabgrw=="
+        },
+        {
+          "text": "Reston, VA",
+          "value": "5WUWJkdAtomfrnGo6K_fYw=="
+        },
+        {
+          "text": "Plano, TX",
+          "value": "E5XFE9ohTIYrYM2JZAOqYg=="
+        },
+        {
+          "text": "Atlanta, GA",
+          "value": "jQmTaV0E9YgLYwuZL97-Zg=="
+        },
+        {
+          "text": "San Francisco, CA",
+          "value": "IQBpAG2ahYD_rXbwZxNQSg=="
+        },
+        {
+          "text": "Charlotte, NC",
+          "value": "gRo4_MQfVIhk0UO_5lBGiA=="
+        },
+        {
+          "text": "Columbus, OH",
+          "value": "cd6QucGJOIgztbHP-GYy5A=="
+        },
+        {
+          "text": "Denver, CO",
+          "value": "zxcfI6qAa4fWNoon-PSOEQ=="
+        },
+        {
+          "text": "Houston, TX",
+          "value": "AYWNSLS4QIY7BWXz3gINyg=="
+        },
+        {
+          "text": "Chantilly, VA",
+          "value": "GXJnGVZBtomDrRZD_PBBQA=="
+        },
+        {
+          "text": "Florham Park, NJ",
+          "value": "PTdcwbanw4lgKMsFO4iZvg=="
+        },
+        {
+          "text": "Jersey City, NJ",
+          "value": "3a-_JdJQwonZJc2iE_BJAg=="
+        },
+        {
+          "text": "Philadelphia, PA",
+          "value": "60u11Ni3xonBWD6M2BT1iQ=="
+        },
+        {
+          "text": "Baltimore, MD",
+          "value": "t4P01q4DyIlY5yNCqJZIBA=="
+        },
+        {
+          "text": "Durham, NC",
+          "value": "8WYPEnHkrIl-8kaKidp64Q=="
+        },
+        {
+          "text": "Fort Meade, MD",
+          "value": "jdor14Tmt4l3A9bF4c3sbg=="
+        },
+        {
+          "text": "McLean, VA",
+          "value": "O3mKsew1tonx6vqtXrpijg=="
+        },
+        {
+          "text": "Pittsburgh, PA",
+          "value": "A4UGSG_xNIg0G6JaoRX5jQ=="
+        },
+        {
+          "text": "Raleigh, NC",
+          "value": "9-BRny9arImt8BGKUraQZw=="
+        },
+        {
+          "text": "Remote, OR",
+          "value": "Xd1PcUdfxFT6HfQNXR_RRw=="
+        },
+        {
+          "text": "Richmond, VA",
+          "value": "7cmZVwkRsYnFPELibT7Yvw=="
+        },
+        {
+          "text": "San Diego, CA",
+          "value": "Sx6SrQ9T2YB53xX9_SE6DQ=="
+        },
+        {
+          "text": "Akron, OH",
+          "value": "t_oui5XXMIgEbSb9lWzJKQ=="
+        },
+        {
+          "text": "Bellevue, WA",
+          "value": "QWCmo89rkFRlB9DqglTPug=="
+        },
+        {
+          "text": "Bentonville, AR",
+          "value": "SUnWTgAQyYcCvyUkyIyA2g=="
+        },
+        {
+          "text": "Cleveland, OH",
+          "value": "LWto4y7vMIhCGGL3VcsE7Q=="
+        },
+        {
+          "text": "Cupertino, CA",
+          "value": "q3fTG1e0j4C0eOGj4T9NOQ=="
+        },
+        {
+          "text": "Dearborn, MI",
+          "value": "a9jAyQY1O4jANsrvQdMPBw=="
+        },
+        {
+          "text": "Edison, NJ",
+          "value": "maG-aH_Tw4nq1INvpsUr8g=="
+        },
+        {
+          "text": "Erlanger, KY",
+          "value": "Q6K35hS4QYj5rVaQrG3Bhw=="
+        },
+        {
+          "text": "Fairfax, VA",
+          "value": "zZFLOZZOtolAhkSF5yYjBw=="
+        },
+        {
+          "text": "Hartford, CT",
+          "value": "pVER8hFT5omZWX3pqEqOzA=="
+        },
+        {
+          "text": "Herndon, VA",
+          "value": "Q6ZdDwY4tol9NWwctSKAkg=="
+        },
+        {
+          "text": "Huntsville, AL",
+          "value": "jYmizWdrYohrVgTIiX4smg=="
+        },
+        {
+          "text": "Irvine, CA",
+          "value": "40CRaA7d3IA5mkpgdbV6pw=="
+        },
+        {
+          "text": "Irving, TX",
+          "value": "j_UJHVyCToYJ84eGVm8wPA=="
+        },
+        {
+          "text": "Natick, MA",
+          "value": "dSAbXrOH44kno1zsiT-M3w=="
+        },
+        {
+          "text": "Oak Ridge, TN",
+          "value": "3xDIHEczXIi3chDvM0bKWw=="
+        },
+        {
+          "text": "Phoenix, AZ",
+          "value": "y3mhUO0SK4esG0o1-MdpjA=="
+        },
+        {
+          "text": "Piscataway, NJ",
+          "value": "1UF7VIO4w4l4HUdhUM-atg=="
+        },
+        {
+          "text": "Princeton, NJ",
+          "value": "8VnQcsHmw4nC1hNKk0nNPw=="
+        },
+        {
+          "text": "San Antonio, TX",
+          "value": "rw7QBK9YXIa8FqAQO-FWCA=="
+        },
+        {
+          "text": "San Jose, CA",
+          "value": "9T_5iuTKj4B7cZ_KCoyduQ=="
+        },
+        {
+          "text": "Seattle, WA",
+          "value": "VTPokywQkFSa1URpRmUlEA=="
+        },
+        {
+          "text": "Texas City, TX",
+          "value": "F7HtoBJ5P4bhtO6tvJwthg=="
+        },
+        {
+          "text": "Aiken, SC",
+          "value": "XYHEcBpN-IhbpNlI9AoztQ=="
+        },
+        {
+          "text": "Albany, CA",
+          "value": "PQVb0tJ4hYAvEQc_0Tiw1Q=="
+        },
+        {
+          "text": "Arlington, VA",
+          "value": "2y0XhK9euolSjud94dTRYw=="
+        },
+        {
+          "text": "Auburn Hills, MI",
+          "value": "mX4JtOG_JIgr3OuK4xXFVQ=="
+        }
+      ]
+    },
+    {
+      "type": "Date posted",
+      "param": "date_posted",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Past day",
+          "value": "today"
+        },
+        {
+          "text": "Past 3 days",
+          "value": "3days"
+        },
+        {
+          "text": "Past week",
+          "value": "week"
+        },
+        {
+          "text": "Past month",
+          "value": "month"
+        }
+      ]
+    },
+    {
+      "type": "Requirements",
+      "param": "requirements",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "No degree",
+          "value": "no_degree"
+        },
+        {
+          "text": "No experience",
+          "value": "no_experience"
+        },
+        {
+          "text": "Under 3 years of experience",
+          "value": "years3under"
+        },
+        {
+          "text": "3+ years of experience",
+          "value": "years3plus"
+        }
+      ]
+    },
+    {
+      "type": "Type",
+      "param": "employment_type",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Full-time",
+          "value": "FULLTIME"
+        },
+        {
+          "text": "Contractor",
+          "value": "CONTRACTOR"
+        },
+        {
+          "text": "Part-time",
+          "value": "PARTTIME"
+        },
+        {
+          "text": "Internship",
+          "value": "INTERN"
+        }
+      ]
+    },
+    {
+      "type": "Company type",
+      "param": "industry.id",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Information",
+          "value": "/business/naics2007/51"
+        },
+        {
+          "text": "Computer Services",
+          "value": "/business/naics2007/5415"
+        },
+        {
+          "text": "Finance",
+          "value": "/business/naics2007/52"
+        },
+        {
+          "text": "Consulting",
+          "value": "/business/naics2007/5416"
+        },
+        {
+          "text": "Education",
+          "value": "/business/naics2007/61"
+        },
+        {
+          "text": "Staffing",
+          "value": "/business/naics2007/5613"
+        },
+        {
+          "text": "Manufacturing",
+          "value": "/business/naics2007/31"
+        },
+        {
+          "text": "Health Care",
+          "value": "/business/naics2007/62"
+        },
+        {
+          "text": "Construction",
+          "value": "/business/naics2007/23"
+        },
+        {
+          "text": "Logistics",
+          "value": "/business/naics2007/48"
+        },
+        {
+          "text": "Engineering Services",
+          "value": "/business/naics2007/5413"
+        },
+        {
+          "text": "Foods & Beverages",
+          "value": "/business/naics2007/311"
+        },
+        {
+          "text": "Entertainment",
+          "value": "/business/naics2007/71"
+        },
+        {
+          "text": "Real Estate",
+          "value": "/business/naics2007/53"
+        },
+        {
+          "text": "Retail",
+          "value": "/business/naics2007/44"
+        },
+        {
+          "text": "Accounting",
+          "value": "/business/naics2007/5412"
+        },
+        {
+          "text": "Textiles & Apparel",
+          "value": "/business/naics2007/313"
+        },
+        {
+          "text": "Utilities",
+          "value": "/business/naics2007/22"
+        },
+        {
+          "text": "Wholesale",
+          "value": "/business/naics2007/42"
+        }
+      ]
+    },
+    {
+      "type": "Employer",
+      "param": "organization_mid",
+      "options": [
+        {
+          "text": "All"
+        },
+        {
+          "text": "Diverse Lynx",
+          "value": "/g/11dxp_49r_"
+        },
+        {
+          "text": "Dice",
+          "value": "/m/02_3ckm"
+        },
+        {
+          "text": "Barclays",
+          "value": "/m/05t8c5"
+        },
+        {
+          "text": "Peraton",
+          "value": "/g/11g9mq8fj6"
+        },
+        {
+          "text": "Accenture",
+          "value": "/m/01rp2c"
+        },
+        {
+          "text": "BNY Mellon",
+          "value": "/m/02vps5x"
+        },
+        {
+          "text": "CACI",
+          "value": "/m/0310bt"
+        },
+        {
+          "text": "Deloitte",
+          "value": "/m/02spfd"
+        },
+        {
+          "text": "Latitude Inc",
+          "value": "/g/11ft5lp_qn"
+        },
+        {
+          "text": "Modis",
+          "value": "/g/11h1kzrtwl"
+        },
+        {
+          "text": "Robert Half",
+          "value": "/m/07k98m"
+        },
+        {
+          "text": "S&P Global",
+          "value": "/m/02_nl4"
+        },
+        {
+          "text": "UPS",
+          "value": "/m/01d734"
+        },
+        {
+          "text": "Accenture Federal Services",
+          "value": "/m/09mg6hx"
+        },
+        {
+          "text": "Archer Daniels Midland",
+          "value": "/m/01qg42"
+        },
+        {
+          "text": "DXC Technology",
+          "value": "/g/11c6rh26jp"
+        },
+        {
+          "text": "DocuSign",
+          "value": "/m/0cp08cw"
+        },
+        {
+          "text": "Fortive",
+          "value": "/g/11c0xhfy7d"
+        },
+        {
+          "text": "General Dynamics Information Technology",
+          "value": "/m/09msylq"
+        },
+        {
+          "text": "Insight Global",
+          "value": "/m/0b773zq"
+        },
+        {
+          "text": "Jacobs",
+          "value": "/m/0992r2"
+        },
+        {
+          "text": "Nomura Holdings, inc.",
+          "value": "/m/04v78b"
+        },
+        {
+          "text": "Pearson",
+          "value": "/m/07p5zs"
+        },
+        {
+          "text": "Piper Companies",
+          "value": "/g/11g0lhhb4k"
+        },
+        {
+          "text": "RIT Solutions, Inc.",
+          "value": "/m/0l0wv"
+        },
+        {
+          "text": "University of Pennsylvania",
+          "value": "/m/07tds"
+        },
+        {
+          "text": "YRC Freight",
+          "value": "/g/11g9mtnxx5"
+        },
+        {
+          "text": "ANC Inc",
+          "value": "/g/11g6_wc6xw"
+        },
+        {
+          "text": "ATG CORP",
+          "value": "/g/11fy2c_v04"
+        },
+        {
+          "text": "Accentuate Staffing",
+          "value": "/g/1hcblddb9"
+        },
+        {
+          "text": "Adbakx LLC",
+          "value": "/g/11dxpx2ktv"
+        },
+        {
+          "text": "Alderson Loop",
+          "value": "/g/11dxq2t780"
+        },
+        {
+          "text": "Align",
+          "value": "/m/02h67kb"
+        },
+        {
+          "text": "AmeriHealth Caritas Health Plan",
+          "value": "/g/11bc6w3jt6"
+        },
+        {
+          "text": "American Heart Association",
+          "value": "/m/02s6vn"
+        },
+        {
+          "text": "Ansys",
+          "value": "/m/06dplm"
+        },
+        {
+          "text": "Apple",
+          "value": "/m/0k8z"
+        }
+      ]
+    }
+  ]
+}
